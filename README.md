@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Bryce Olivier and I am a Senior Software Engineering major at Louisiana State University!
+
+🌱 Open for work opportunities!
+
+📧 You can reach me at: [boliv31@lsu.edu](mailto:boliv31@lsu.edu)
+
+
 <!--
 **Brythe40/Brythe40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
